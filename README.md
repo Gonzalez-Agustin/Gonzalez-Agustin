@@ -62,9 +62,6 @@ I am interested in learning KMP,AI and would  to grow my knowledge in these Tech
  <br/>
 ### 🔗 &nbsp;Contact Me
 
-<a href= "https://www.instagram.com/agustin.gnzz/" >
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
 
 <a href="https://mail.google.com/mail/u/2/?ogbl#inbox?compose=DmwnWrRlQQJKkhqGpgvlPCTfPlXMgnSPlxBxqMpwcsfTcphFqbSWWBDsMgWjxSSfHwMxKBpSVtxq">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
