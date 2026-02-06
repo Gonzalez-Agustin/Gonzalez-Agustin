@@ -8,7 +8,7 @@
 
 About me🧑:
 
-I'm a Systems Engineering student and a computer science major graduate..<br/>
+I'm a I am a professional computer technician<br/>
 I've interned as a full-stack website developer.<br/>
 I am interested in learning KMP,AI and would  to grow my knowledge in these Technologies.<br/>
 
